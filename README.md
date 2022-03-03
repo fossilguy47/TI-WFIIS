@@ -1,2 +1,2 @@
 # Ti-WFIIS
-Academic course projects of Techniki Internetowe.
+Academic course second project of Techniki Internetowe.
